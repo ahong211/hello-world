@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello gulfstream.
+
+I am learning how to use github because I did not learn how to use it in school.
